@@ -1,6 +1,8 @@
 # Task-1-Stock-Prediction
 Stock Prediction
+
 Bharat Data Science Intern
+
 Take stock price of any company you want and predicts its price by using LSTM.
 
 Stock Price Prediction using LSTM
